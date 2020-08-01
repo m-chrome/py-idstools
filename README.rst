@@ -1,4 +1,4 @@
-py-idstools |build-status| |docs|
+py-idstools |build-status|
 =================================
 
 py-idstools is a collection of Python libraries for working with IDS
@@ -274,10 +274,5 @@ unreleased
   2.9.7.0.alpha.
 - `Commit log <https://github.com/jasonish/py-idstools/compare/0.3.0...0.3.1>`_
 
-.. |build-status| image:: https://travis-ci.org/jasonish/py-idstools.png?branch=master
-   :target: https://travis-ci.org/jasonish/py-idstools
-
-.. |docs| image:: https://readthedocs.org/projects/idstools/badge/?version=latest
-   :alt: Documentation Status
-   :scale: 100%
-   :target: https://idstools.readthedocs.io/en/latest/?badge=latest
+.. |build-status| image:: https://travis-ci.org/m-chrome/py-idstools.png?branch=dev
+   :target: https://travis-ci.org/m-chrome/py-idstools
